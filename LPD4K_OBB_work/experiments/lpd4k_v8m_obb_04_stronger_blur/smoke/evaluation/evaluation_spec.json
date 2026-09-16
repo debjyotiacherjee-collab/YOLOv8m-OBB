@@ -1,0 +1,11 @@
+{
+  "checkpoint_sha256": "40bb0ee75369413cec57befb889e9168cc077431dba85bb16b252786ae4a145f",
+  "run_mode": "smoke",
+  "generation_fingerprint": "a6e594889c48df863e03d815791979940f667c8888bea7c6c7b66bc83c8138a5",
+  "confidence_threshold": 0.25,
+  "polygon_match_iou": 0.5,
+  "nms_iou": 0.7,
+  "map_confidence_floor": 0.001,
+  "imgsz": 320,
+  "max_det": 300
+}

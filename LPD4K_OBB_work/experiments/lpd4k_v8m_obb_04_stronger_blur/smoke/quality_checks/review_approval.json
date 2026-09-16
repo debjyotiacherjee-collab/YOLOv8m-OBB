@@ -1,0 +1,8 @@
+{
+  "approved_utc": "2026-09-15T19:17:03.755603+00:00",
+  "run_mode": "smoke",
+  "source_fingerprint": "b405acf48d09d082ff68bd0c68852a2279bd7ace1d3b539fde4631ce686a96e7",
+  "generation_fingerprint": "a6e594889c48df863e03d815791979940f667c8888bea7c6c7b66bc83c8138a5",
+  "near_duplicate_candidates_reviewed": 0,
+  "note": "User acknowledgement; this is not automated proof of physical-identity disjointness."
+}

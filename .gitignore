@@ -1,0 +1,82 @@
+# ============================================================
+# Python / virtual environments
+# ============================================================
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# ============================================================
+# VS Code / OS temporary files
+# ============================================================
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# ORIGINAL DATASET - DO NOT PUSH
+# ============================================================
+LPD4k.yolov8-obb/
+
+# ============================================================
+# GENERATED LARGE IMAGE DATASETS - DO NOT PUSH
+# ============================================================
+
+# Ground-truth cropped plate datasets
+LPD4K_OBB_work/**/clean_plates/
+LPD4K_OBB_work/**/motion_blurr_plate/
+LPD4K_OBB_work/**/defocus_blurr_plate/
+LPD4K_OBB_work/**/gaussian_blurr_plate/
+
+# Full-frame generated detector images/labels
+LPD4K_OBB_work/**/detector_data/
+
+# ============================================================
+# MODEL WEIGHTS / PRETRAINED MODELS - DO NOT PUSH
+# ============================================================
+*.pt
+*.pth
+*.weights
+*.onnx
+*.engine
+*.tflite
+*.torchscript
+*.mlmodel
+*.pb
+
+LPD4K_OBB_work/**/pretrained/
+LPD4K_OBB_work/**/detector_runs/**/weights/
+
+# ============================================================
+# Ultralytics / dataset cache
+# ============================================================
+*.cache
+
+# ============================================================
+# Large video files
+# ============================================================
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# ============================================================
+# Temporary/archive files
+# ============================================================
+*.tmp
+*.temp
+*.log
+*.zip
+*.rar
+*.7z
+# Old development notebooks - keep locally only
+LPD4K_YOLOv8m_OBB/LPD4K_YOLOv8m_OBB_LOCAL.ipynb
+LPD4K_YOLOv8m_OBB/LPD4K_YOLOv8m_OBB_LOCAL_v1_2.ipynb

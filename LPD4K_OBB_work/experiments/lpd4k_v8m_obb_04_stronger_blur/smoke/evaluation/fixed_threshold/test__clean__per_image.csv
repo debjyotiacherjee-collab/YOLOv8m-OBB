@@ -1,0 +1,5 @@
+﻿split,variant,source_image,ground_truth_objects,predictions,tp,fp,fn
+test,clean,test/images/20240211_141957_jpg.rf.C0V7W0ffdKaozy99789B.jpg,1,0,0,0,1
+test,clean,test/images/3278_png.rf.qmdSUdhFwiTgPxufgztE.png,1,0,0,0,1
+test,clean,test/images/20240216_171820_jpg.rf.8epF2p7nbb8zjP84yFGi.jpg,1,0,0,0,1
+test,clean,test/images/20240218_174112_jpg.rf.5dCEciWdVIZwESgCc2e7.jpg,1,0,0,0,1

@@ -1,0 +1,11 @@
+path: D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/smoke
+train:
+- D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/smoke/detector_data/clean/train/images
+- D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/smoke/detector_data/motion_blur/train/images
+- D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/smoke/detector_data/defocus_blur/train/images
+- D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/smoke/detector_data/gaussian_blur/train/images
+val: D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/smoke/detector_data/defocus_blur/val/images
+test: D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/smoke/detector_data/defocus_blur/test/images
+nc: 1
+names:
+  0: license_bd

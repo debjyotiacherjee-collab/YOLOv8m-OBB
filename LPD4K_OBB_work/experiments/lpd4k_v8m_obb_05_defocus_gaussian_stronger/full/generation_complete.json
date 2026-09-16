@@ -1,0 +1,8 @@
+{
+  "run_mode": "full",
+  "source_images_selected": 2574,
+  "source_plate_annotations": 2721,
+  "recognition_images": 10884,
+  "master_csv": "D:\\Thesis-Tahmid\\LPD4K_OBB_project\\LPD4K_OBB_work\\experiments\\lpd4k_v8m_obb_05_defocus_gaussian_stronger\\full\\easyocr_finetuning_training\\labels_master.csv",
+  "generation_fingerprint": "aa081482c484a66a57753a9794ac993ebe537da672b10b5c4d2694e182237e92"
+}

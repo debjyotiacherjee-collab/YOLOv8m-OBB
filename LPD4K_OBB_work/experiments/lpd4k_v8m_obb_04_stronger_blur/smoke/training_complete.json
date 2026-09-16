@@ -1,0 +1,7 @@
+{
+  "finished_utc": "2026-09-15T19:17:26.851593+00:00",
+  "best": "D:\\Thesis-Tahmid\\LPD4K_OBB_project\\LPD4K_OBB_work\\experiments\\lpd4k_v8m_obb_04_stronger_blur\\smoke\\detector_runs\\yolov8m_obb\\weights\\best.pt",
+  "last": "D:\\Thesis-Tahmid\\LPD4K_OBB_project\\LPD4K_OBB_work\\experiments\\lpd4k_v8m_obb_04_stronger_blur\\smoke\\detector_runs\\yolov8m_obb\\weights\\last.pt",
+  "best_sha256": "40bb0ee75369413cec57befb889e9168cc077431dba85bb16b252786ae4a145f",
+  "run_mode": "smoke"
+}

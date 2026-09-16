@@ -1,0 +1,8 @@
+{
+  "run_mode": "smoke",
+  "source_images_selected": 12,
+  "source_plate_annotations": 12,
+  "recognition_images": 48,
+  "master_csv": "D:\\Thesis-Tahmid\\LPD4K_OBB_project\\LPD4K_OBB_work\\experiments\\lpd4k_v8m_obb_02\\smoke\\easyocr_finetuning_training\\labels_master.csv",
+  "generation_fingerprint": "a6e594889c48df863e03d815791979940f667c8888bea7c6c7b66bc83c8138a5"
+}

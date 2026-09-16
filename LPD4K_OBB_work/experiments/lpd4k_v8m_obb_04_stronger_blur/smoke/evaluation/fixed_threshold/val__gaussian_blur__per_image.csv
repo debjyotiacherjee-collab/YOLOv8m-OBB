@@ -1,0 +1,5 @@
+﻿split,variant,source_image,ground_truth_objects,predictions,tp,fp,fn
+val,gaussian_blur,valid/images/IMG-38_jpg.rf.HOj2D7yKUfW5vxfHPXCb.jpg,1,0,0,0,1
+val,gaussian_blur,valid/images/11282_png.rf.Npp9zE4m5b3xGLx9B0SK.png,1,0,0,0,1
+val,gaussian_blur,valid/images/Screenshot 2024-02-20 010301_png.rf.K23vyeu1zwgET95YsBIC.png,1,0,0,0,1
+val,gaussian_blur,valid/images/20240218_145418_jpg.rf.pVoyMWQTwvtWvfzMClG1.jpg,1,0,0,0,1

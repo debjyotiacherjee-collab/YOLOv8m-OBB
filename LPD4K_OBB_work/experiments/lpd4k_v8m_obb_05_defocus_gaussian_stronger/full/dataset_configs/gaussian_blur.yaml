@@ -1,0 +1,8 @@
+path: D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/full
+train:
+- D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/full/detector_data/clean/train/images
+val: D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/full/detector_data/gaussian_blur/val/images
+test: D:/Thesis-Tahmid/LPD4K_OBB_project/LPD4K_OBB_work/experiments/lpd4k_v8m_obb_05_defocus_gaussian_stronger/full/detector_data/gaussian_blur/test/images
+nc: 1
+names:
+  0: license_bd

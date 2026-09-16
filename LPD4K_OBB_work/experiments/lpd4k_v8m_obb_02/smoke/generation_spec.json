@@ -1,0 +1,31 @@
+{
+  "pipeline_version": "1.2.0-local",
+  "source_fingerprint": "b405acf48d09d082ff68bd0c68852a2279bd7ace1d3b539fde4631ce686a96e7",
+  "selected_images": [
+    "train/images/IMG_20190413_122349_jpg.rf.8ByhDW1sZ4pdPZHwWPaB.jpg",
+    "train/images/85_jpg.rf.5ot9diKeqqapXlFdzrdY.jpg",
+    "train/images/20240211_154134_jpg.rf.Mnqr1JOT0IruBuLAmRQq.jpg",
+    "train/images/20240218_173304_jpg.rf.wztoJBBQYYmiLN6iafRg.jpg",
+    "valid/images/IMG-38_jpg.rf.HOj2D7yKUfW5vxfHPXCb.jpg",
+    "valid/images/11282_png.rf.Npp9zE4m5b3xGLx9B0SK.png",
+    "valid/images/Screenshot 2024-02-20 010301_png.rf.K23vyeu1zwgET95YsBIC.png",
+    "valid/images/20240218_145418_jpg.rf.pVoyMWQTwvtWvfzMClG1.jpg",
+    "test/images/20240211_141957_jpg.rf.C0V7W0ffdKaozy99789B.jpg",
+    "test/images/3278_png.rf.qmdSUdhFwiTgPxufgztE.png",
+    "test/images/20240216_171820_jpg.rf.8epF2p7nbb8zjP84yFGi.jpg",
+    "test/images/20240218_174112_jpg.rf.5dCEciWdVIZwESgCc2e7.jpg"
+  ],
+  "seed": 42,
+  "plate_class_ids": [
+    0
+  ],
+  "variants": [
+    "clean",
+    "motion_blur",
+    "defocus_blur",
+    "gaussian_blur"
+  ],
+  "crop": "given four corners; perspective warp; native size; no padding",
+  "blur_policy": "motion line / disk defocus / Gaussian v1; full-frame before crop",
+  "fingerprint": "a6e594889c48df863e03d815791979940f667c8888bea7c6c7b66bc83c8138a5"
+}

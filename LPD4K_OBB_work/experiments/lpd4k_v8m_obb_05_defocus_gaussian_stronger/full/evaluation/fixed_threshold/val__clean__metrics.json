@@ -1,0 +1,20 @@
+{
+  "run_mode": "full",
+  "split": "val",
+  "variant": "clean",
+  "mAP50_ultralytics": 0.9890193634816976,
+  "mAP50_95_ultralytics": 0.9296154385236756,
+  "precision_ultralytics": 0.9834595538360187,
+  "recall_ultralytics": 0.9585798816568047,
+  "images": 792,
+  "tp": 820,
+  "fp": 34,
+  "fn": 25,
+  "precision_fixed": 0.9601873536299765,
+  "recall_fixed": 0.9704142011834319,
+  "f1_fixed": 0.9652736904061212,
+  "mean_polygon_iou_matched": 0.8868208437133213,
+  "confidence_threshold": 0.25,
+  "polygon_iou_threshold": 0.5,
+  "nms_iou_threshold": 0.7
+}

@@ -1,0 +1,17 @@
+{
+  "pipeline_version": "1.2.0-local",
+  "model": "yolov8m-obb.pt",
+  "ultralytics": "8.3.228",
+  "run_mode": "full",
+  "generation_fingerprint": "aa081482c484a66a57753a9794ac993ebe537da672b10b5c4d2694e182237e92",
+  "training_yaml_sha256": "2989f6a752ef7e703c651fde5c4f2729ecac0172b3b80f7b2acf3f3e187d46f4",
+  "epochs": 30,
+  "imgsz": 640,
+  "batch": 8,
+  "seed": 42,
+  "train_on_blurs": false,
+  "checkpoint_selection": "clean validation split only",
+  "workers": 0,
+  "device": "0",
+  "augmentations": "no flips/mosaic/mixup; small train-only geometric and color changes"
+}

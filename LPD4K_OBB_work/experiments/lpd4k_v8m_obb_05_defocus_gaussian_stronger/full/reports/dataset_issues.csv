@@ -1,0 +1,5 @@
+﻿severity,category,source_image,detail
+warning,orphan_labels_ignored,,1398 label files have no matching image and were ignored; see ignored_orphan_labels.csv.
+warning,exif_orientation_applied,,Applied EXIF orientation in memory to 1198 images; source files were not rewritten. See exif_orientation_applied.csv.
+warning,out_of_range_images_excluded,,Excluded 66 source images containing materially out-of-range OBB coordinates; see excluded_source_images.csv.
+warning,cross_split_duplicates_excluded,,"Excluded 9 lower-priority cross-split duplicate source images; priority is ('test', 'val', 'train'). See cross_split_exclusions.csv."

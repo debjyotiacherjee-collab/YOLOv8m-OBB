@@ -1,0 +1,7 @@
+{
+  "finished_utc": "2026-09-16T11:18:36.014359+00:00",
+  "best": "D:\\Thesis-Tahmid\\LPD4K_OBB_project\\LPD4K_OBB_work\\experiments\\lpd4k_v8m_obb_05_defocus_gaussian_stronger\\full\\detector_runs\\yolov8m_obb\\weights\\best.pt",
+  "last": "D:\\Thesis-Tahmid\\LPD4K_OBB_project\\LPD4K_OBB_work\\experiments\\lpd4k_v8m_obb_05_defocus_gaussian_stronger\\full\\detector_runs\\yolov8m_obb\\weights\\last.pt",
+  "best_sha256": "b8ae8e988784a5505d0aaab87cf617394fae7cea4fda494b0bd37ab532ab52c4",
+  "run_mode": "full"
+}

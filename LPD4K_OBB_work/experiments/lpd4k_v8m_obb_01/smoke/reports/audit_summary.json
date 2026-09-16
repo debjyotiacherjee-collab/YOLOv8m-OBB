@@ -1,0 +1,16 @@
+{
+  "audit_utc": "2026-09-15T15:56:04.071572+00:00",
+  "images": 1423,
+  "classes": {
+    "0": "license_bd"
+  },
+  "plate_class_ids": [
+    0
+  ],
+  "errors": 2642,
+  "warnings": 0,
+  "near_duplicate_candidates": 0,
+  "near_duplicate_report_capped": false,
+  "source_fingerprint": "4f9c79360ae5e2b45bc4080d3ef84af85a381aed9f47d77056a820290d14229c",
+  "limits": "Names/hashes do not prove physical plate or video-session disjointness. Manual identity review is required."
+}

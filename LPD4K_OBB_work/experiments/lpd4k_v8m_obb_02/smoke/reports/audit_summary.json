@@ -1,0 +1,21 @@
+{
+  "audit_utc": "2026-09-15T18:34:01.898000+00:00",
+  "scanned_images": 2649,
+  "images": 2574,
+  "classes": {
+    "0": "license_bd"
+  },
+  "plate_class_ids": [
+    0
+  ],
+  "errors": 0,
+  "warnings": 4,
+  "orphan_labels_ignored": 1398,
+  "exif_images_normalized": 1198,
+  "excluded_source_images": 75,
+  "cross_split_candidates": 18,
+  "near_duplicate_candidates": 0,
+  "near_duplicate_report_capped": false,
+  "source_fingerprint": "b405acf48d09d082ff68bd0c68852a2279bd7ace1d3b539fde4631ce686a96e7",
+  "limits": "EXIF is normalized in memory. Orphan labels are ignored. Materially out-of-range OBB images and lower-priority cross-split duplicates are excluded and logged; source files are never modified."
+}

@@ -1,0 +1,17 @@
+{
+  "run_mode": "full",
+  "output_root": "D:\\Thesis-Tahmid\\LPD4K_OBB_project\\LPD4K_OBB_work\\experiments\\lpd4k_v8m_obb_05_defocus_gaussian_stronger\\full",
+  "recognition_images": 10884,
+  "blank_words": 10884,
+  "crop_counts": {
+    "clean_plates": 2721,
+    "motion_blurr_plate": 2721,
+    "defocus_blurr_plate": 2721,
+    "gaussian_blurr_plate": 2721
+  },
+  "source_annotations": 2721,
+  "labels_master_csv": "D:\\Thesis-Tahmid\\LPD4K_OBB_project\\LPD4K_OBB_work\\experiments\\lpd4k_v8m_obb_05_defocus_gaussian_stronger\\full\\easyocr_finetuning_training\\labels_master.csv",
+  "detector_training_complete": true,
+  "detector_evaluation_complete": true,
+  "physical_identity_caveat": "Cross-photo vehicle/plate/video identity still requires user review."
+}

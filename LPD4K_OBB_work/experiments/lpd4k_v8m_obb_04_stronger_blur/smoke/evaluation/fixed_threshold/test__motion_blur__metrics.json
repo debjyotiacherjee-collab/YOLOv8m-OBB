@@ -1,0 +1,20 @@
+{
+  "run_mode": "smoke",
+  "split": "test",
+  "variant": "motion_blur",
+  "mAP50_ultralytics": 0.002895931066387144,
+  "mAP50_95_ultralytics": 0.0006714147900384803,
+  "precision_ultralytics": 0.002026342451874367,
+  "recall_ultralytics": 0.5,
+  "images": 4,
+  "tp": 0,
+  "fp": 0,
+  "fn": 4,
+  "precision_fixed": 0.0,
+  "recall_fixed": 0.0,
+  "f1_fixed": 0.0,
+  "mean_polygon_iou_matched": null,
+  "confidence_threshold": 0.25,
+  "polygon_iou_threshold": 0.5,
+  "nms_iou_threshold": 0.7
+}

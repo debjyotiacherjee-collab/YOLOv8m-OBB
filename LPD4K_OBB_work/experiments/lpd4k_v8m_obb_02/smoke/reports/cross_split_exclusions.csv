@@ -1,0 +1,10 @@
+﻿check,group_id,kept_split,excluded_split,source_image
+source_group,102_jpg,val,train,train/images/102_jpg.rf.3wx5Cmv1lxM1XIfBb0uT.jpg
+source_group,45_jpg,test,train,train/images/45_jpg.rf.CuyZwR80RoUpYIKYCLni.jpg
+source_group,46_jpg,val,train,train/images/46_jpg.rf.wGcF5Oz0sXVw6D3QmENo.jpg
+source_group,60_jpg,val,train,train/images/60_jpg.rf.Bp5HefAP1B6M0SVZAh02.jpg
+source_group,68_jpg,val,train,train/images/68_jpg.rf.B50uOlKMvonuomCIiQuP.jpg
+source_group,75_jpg,val,train,train/images/75_jpg.rf.Y1OukSUzCeJssXjYuwgv.jpg
+source_group,98_jpg,val,train,train/images/98_jpg.rf.5SY9QlD82zLJFQ6TnzlD.jpg
+source_group,58_jpg,test,val,valid/images/58_jpg.rf.goMDiZZ1PjfVoFc0PLWm.jpg
+source_group,99_jpg,test,val,valid/images/99_jpg.rf.WXvpaFWg3m0TTyHT0rxt.jpg
