@@ -77,6 +77,3 @@ LPD4K_OBB_work/**/detector_runs/**/weights/
 *.zip
 *.rar
 *.7z
-# Old development notebooks - keep locally only
-LPD4K_YOLOv8m_OBB/LPD4K_YOLOv8m_OBB_LOCAL.ipynb
-LPD4K_YOLOv8m_OBB/LPD4K_YOLOv8m_OBB_LOCAL_v1_2.ipynb
